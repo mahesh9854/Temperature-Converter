@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="temperature_array">
+        <item>Celsius(°C)</item>
+        <item>Fahrenheit(°F)</item>
+        <item>Kelvin(K)</item>
+            <item>Rankine(°R)</item>
+    </string-array>
+    <string-array name="temperature1_array">
+        <item>Fahrenheit(°F)</item>
+        <item>Celsius(°C)</item>
+        <item>Kelvin(K)</item>
+        <item>Rankine(°R)</item>
+    </string-array>
+    <string name="app_name">TemperatureConverter</string>
+    <string name="temperature">Temperature</string>
+    <string name="unit">Unit</string>
+    <string name="convert">Convert</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+</resources>
